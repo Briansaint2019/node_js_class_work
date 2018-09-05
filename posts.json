@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "title": "Test Post",
+      "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/The-stages-of-puppy-growth.jpg?itok=9ptPJwY8",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "testUser1",
+          "comment": "Comment #1"
+        },
+        {
+          "id": "01235",
+          "user": "testUser2",
+          "comment": "Comment #2"
+        }
+      ]
+    }
+  ]
+}
